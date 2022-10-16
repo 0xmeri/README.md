@@ -1,7 +1,9 @@
 # README.md
 
  <h1> Hello 👋, I'm İrem! </h1>
-  <img src="https://media.giphy.com/media/11c7UUfN4eoHF6/giphy.gif" width="90px"/>
+ <div id="header" align="center">
+  <img src="https://media.giphy.com/media/11c7UUfN4eoHF6/giphy.gif" width="100"/>
+</div>
   
   ---
 
