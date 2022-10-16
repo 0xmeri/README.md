@@ -1,9 +1,18 @@
 # README.md
 
-<h1> Hello 👋, I'm İrem! </h1>
- <h1 align="center> I'm trying to be Web Developer </h1>
+ <h1> Hello 👋, I'm İrem! </h1>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+  
+  ---
+
+### :woman_technologist: About Me :
+I am trying to be Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I read book in the garden and blockchain tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/irem-a-5814b5240/)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
